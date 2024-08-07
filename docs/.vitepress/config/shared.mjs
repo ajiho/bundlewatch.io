@@ -6,6 +6,8 @@ import { search as zhSearch } from "./zh.mjs";
 export const shared = defineConfig({
   title: "bundlewatch",
 
+  base: "/bundlewatch.io/",
+
   rewrites: {
     "en/:rest*": ":rest*",
   },
