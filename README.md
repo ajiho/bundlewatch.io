@@ -57,7 +57,7 @@ Thanks goes to these wonderful people ([emoji key][emojis]):
 Contributions of any kind are welcome! [Join us on Slack](https://join.slack.com/t/bundlewatch/shared_invite/enQtMzUwNjYxNTMwMzcyLWE5NGI4MzZjMjM4MTRlYzllOTMwYzIzZWNjM2MyMjBmMzNjNGM0ZGVhODc2YjFkNzIwMzNkYjk3NzE0MjZkOTc) and start contributing.
 
 
-Documentation powered by [docsifyJS](https://docsify.js.org/)
+Documentation powered by [vitepress](https://vitepress.dev/)
 
 [bundlewatch]: https://img.shields.io/badge/bundle-watched-blue.svg
 [bundlewatch-url]: https://bundlewatch.io
