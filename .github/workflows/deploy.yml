@@ -37,10 +37,6 @@ jobs:
         uses: actions/configure-pages@v4
       - name: Install dependencies
         run: npm ci # 或者 pnpm install / yarn install / bun install
-      - name: Build Quicktab
-        run: npm run build
-      - name: Copy dist and demo dir to vitepress public dir
-        run: npm run demo:build
       - name: Build with VitePress
         run: npm run docs:build # 或者 pnpm docs:build / yarn docs:build / bun run docs:build
       - name: Upload artifact
