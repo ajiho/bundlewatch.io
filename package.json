@@ -1,9 +1,9 @@
 {
   "licence": "MIT",
   "scripts": {
-    "dev": "vitepress dev docs --open",
-    "build": "vitepress build docs",
-    "preview": "vitepress preview docs"
+    "docs:dev": "vitepress dev docs --open",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
   },
   "devDependencies": {
     "medium-zoom": "^1.1.0",
