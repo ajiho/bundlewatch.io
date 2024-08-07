@@ -16,7 +16,7 @@ export const en = defineConfig({
     },
 
     editLink: {
-      pattern: "https://github.com/ajiho/think-weather/edit/main/docs/:path",
+      pattern: "https://github.com/bundlewatch/bundlewatch.io/edit/master/docs/:path",
       text: "Edit this page on GitHub",
     },
 
